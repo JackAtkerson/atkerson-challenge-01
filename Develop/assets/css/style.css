@@ -4,6 +4,8 @@
     margin: 0;
 }
 
+/* Element Selectors */
+
 body {
     background-color: #d9dcd6;
 }
@@ -58,6 +60,8 @@ footer h2 {
     font-size: 20px;
 }
 
+/* Floats */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -68,6 +72,8 @@ footer h2 {
     margin-left: 25px;
 }
 
+/* Hero Styling */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -76,6 +82,8 @@ footer h2 {
     background-size: cover;
     background-position: center;
 }
+
+/* Content Section Styling */
 
 .content {
     width: 75%;
@@ -100,6 +108,8 @@ footer h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Benefits Section Styling */
 
 .benefits {
     margin-right: 20px;
