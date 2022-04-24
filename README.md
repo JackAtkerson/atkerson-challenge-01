@@ -8,6 +8,6 @@ I focused most of my effort on consolidating the code. I was able to remove line
 
 ## Screenshots
 
-[![Homepage Example One](/Develop/assets/images/homepage-01)]
+[![Homepage Example One](./Develop/assets/images/homepage-01)]
 
-[![Homepage Example Two](/Develop/assets/images/hmepoage-02)]
+[![Homepage Example Two](./Develop/assets/images/homepage-01)]
